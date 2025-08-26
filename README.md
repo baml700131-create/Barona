@@ -10,6 +10,7 @@
 </head>
 <body>
     <h1>¡Hola mundo!</h1>
-    <p>Esta es mi primera página web.</p>
+    <p>Esta es mi primera página web.
+    Dedicada a P & I</p>
 </body>
 </html>
