@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi primera página</title>
-    <style>
-        body { font-family: Arial; text-align: center; margin-top: 50px; }
-    </style>
+
 </head>
 <body>
     <h1>¡Hola mundo!</h1>
+    <h2>Dedicada a P & I</h2>
     <p>Esta es mi primera página web.
-    Dedicada a P & I</p>
+    </p>
 </body>
 </html>
